@@ -25,3 +25,7 @@ MediatR fits perfectly in the application layer of the CQRS schema, but don t ju
 
 ## The solution
 ![solution](https://user-images.githubusercontent.com/58937669/172811809-7d309fb7-5e32-4a1b-8404-2e292a4eb834.png)
+
+
+## CQRS Operations
+![CQRS operation flow](https://user-images.githubusercontent.com/58937669/172830118-bf68fc8d-776d-46b8-81c8-6d36fd0125c2.png)
